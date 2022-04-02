@@ -4,10 +4,10 @@
 [![Codeac](https://static.codeac.io/badges/2-402412512.svg "Codeac")](https://app.codeac.io/github/mituljain02/M1_ElectricityBillingProject)
 
 ## Code Inspector Badges
-![code quality score](https://api.codiga.io/project/32383/score/svg)
+![code quality score](https://api.codiga.io/project/32496/score/svg)
 
 
-![code_quality grade](https://api.codiga.io/project/32383/status/svg)
+![code_quality grade](https://api.codiga.io/project/32496/status/svg)
 
 ## Folder Structure
 Folder             | Description
