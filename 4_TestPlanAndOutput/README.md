@@ -22,3 +22,6 @@
 |L\_07|H\_02|Electricity bill calculation at Urban areas if(units>101 && units <200)|134|797.3|797.3|
 |L\_08|H\_02|Electricity bill calculation at Urban areas if(units<200)|344|2,339.2|2,339.2|
 
+## Output
+
+Uploading output of the code in form of image 
